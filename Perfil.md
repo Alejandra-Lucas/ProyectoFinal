@@ -1,4 +1,4 @@
-## Alejandra Lucas Coronel
+# Alejandra Lucas Coronel
 
 Soy una estudiante de penúltimo semestre de Matemáticas Aplicadas en busca de potenciar mi perfil profesional y poder destacar en el mundo laboral
 
