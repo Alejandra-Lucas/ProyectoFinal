@@ -7,3 +7,4 @@
 * Traer cambios de repositorios remotos al local y del local al remoto
 * Uso de *Pull Requests* y *Fork*
 * Uso e importancia de ramas
+* Cómo crear ramas
