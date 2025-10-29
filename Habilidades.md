@@ -4,3 +4,4 @@
 | Manejo básico de Python |Proactiva|
 | Uso de java| Resiliente |
 |Uso de LaTex|Comunicación efectiva|
+|||
