@@ -9,3 +9,5 @@
 * Uso e importancia de ramas
 * Cómo crear ramas
 * Cómo eliminar ramas
+* Fusión de ramas
+* Resolución de conflictos
