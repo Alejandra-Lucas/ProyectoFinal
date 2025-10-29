@@ -8,3 +8,4 @@
 * Uso de *Pull Requests* y *Fork*
 * Uso e importancia de ramas
 * Cómo crear ramas
+* Cómo eliminar ramas
