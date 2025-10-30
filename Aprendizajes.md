@@ -11,3 +11,4 @@
 * Cómo eliminar ramas
 * Fusión de ramas
 * Resolución de conflictos
+* Mostrar historial con `git log --graph --oneline --all`  
