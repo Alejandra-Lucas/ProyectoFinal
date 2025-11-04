@@ -12,3 +12,6 @@
 * Fusión de ramas
 * Resolución de conflictos
 * Mostrar historial con `git log --graph --oneline --all`  
+
+### Links útiles
+* [Hoja de referencia de comandos de Git](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
