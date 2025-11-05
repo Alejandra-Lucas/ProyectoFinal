@@ -12,3 +12,5 @@
 * Fusión de ramas
 * Resolución de conflictos
 * Mostrar historial con `git log --graph --oneline --all`  
+
+- Tip: Hacer commits pequeños y claros facilita el trabajo en equipo 
